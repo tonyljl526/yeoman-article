@@ -21,6 +21,6 @@ Yeoman document translate &amp; study
 
 第二章：翻译官网（7-12章） 待完成
 
-第三章：使用Yeoman创建属于自己的前端工程流  待完成
+第三章：使用Yeoman创建属于自己的前端工程流（前端自动化 + nodejs）  待完成
 
 会更新在issues中。
