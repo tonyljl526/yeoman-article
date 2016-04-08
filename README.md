@@ -3,7 +3,7 @@ Yeoman document translate &amp; study
 
 ##Yeoman学习
 
-[第一章：翻译官网（1-6章）](http://yeoman.io/authoring/index.html) 
+[第一章：翻译官网（1-6章）](https://github.com/tonyljl526/yeoman-article/issues/1) 
 
 > （一）Getting started 快速开始
 
